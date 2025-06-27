@@ -1,0 +1,47 @@
+Above-ground Nitrogen Content Analysis Technical Report
+================================================
+
+1. Analysis Period
+-----------------
+Start Date: 2024-02-01 00:00:00
+End Date: 2024-04-11 00:00:00
+Number of Observations: 8
+
+2. Overall Statistics
+-------------------
+Mean N Content: 3.38% ± 0.35%
+Range: 1.50% - 6.00%
+Average RMSE: 0.348%
+Average R²: 0.863
+
+3. Method Performance
+-------------------
+
+NDRE:
+  - Mean Estimate: 1.83%
+  - RMSE: 0.310%
+  - R²: 0.890
+  - Average Weight: 0.34
+
+CIred-edge:
+  - Mean Estimate: 5.55%
+  - RMSE: 0.340%
+  - R²: 0.870
+  - Average Weight: 0.34
+
+MCARI:
+  - Mean Estimate: 2.04%
+  - RMSE: 0.390%
+  - R²: 0.830
+  - Average Weight: 0.32
+
+4. Estimation Quality Distribution
+-------------------------------
+High Confidence: 8 measurements (100.0%)
+
+5. References
+------------
+1. Li et al. (2018). Field Crops Research, 218, 159-174
+2. Cao et al. (2020). IEEE J-STARS, 13, 2818-2832
+3. Prey & Schmidhalter (2019). Sensors, 19(21), 4640
+4. Zheng et al. (2018). Remote Sensing, 10(6), 824
